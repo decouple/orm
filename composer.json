@@ -1,0 +1,12 @@
+{
+    "name": "decouple/orm",
+    "description": "Hack ORM created for the Decouple framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Ewing",
+            "email": "drew@phenocode.com"
+        }
+    ],
+    "require": {}
+}
