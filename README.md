@@ -1,4 +1,4 @@
-orm
+decouple/orm
 ===
 
-Hack ORM created for the Decouple framework
+Hack ORM created for Decouple Framework.
